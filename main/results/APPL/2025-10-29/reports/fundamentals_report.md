@@ -1,0 +1,1 @@
+I was unable to retrieve any fundamental data, balance sheet, cash flow, or income statement information for APPL using the available tools. This could be due to a variety of reasons, including data unavailability or issues with the API.

@@ -1,0 +1,1 @@
+I am unable to retrieve the financial data for SPY using the available tools. The responses from the API calls are empty. Therefore, I cannot provide a comprehensive fundamental analysis report at this time.

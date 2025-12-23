@@ -1,0 +1,1 @@
+I am sorry, but I am unable to retrieve the news data with the available tools. I am experiencing issues with the API.
